@@ -52,7 +52,7 @@ body {
 padding: 16px;
 flex-basis: 300px;
 flex-shrink: 0;
-
+font-size: 24px;
 }
 
 .cards {
